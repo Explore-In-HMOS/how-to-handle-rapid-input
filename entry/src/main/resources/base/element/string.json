@@ -1,0 +1,24 @@
+{
+  "string": [
+    { "name": "module_desc", "value": "Rapid input handling sample" },
+    { "name": "EntryAbility_desc", "value": "Prevents crashes caused by rapid input" },
+    { "name": "EntryAbility_label", "value": "TapGuard" },
+    { "name": "protection", "value": "Protection" },
+    { "name": "stat_inputs", "value": "Inputs" },
+    { "name": "stat_running", "value": "Running jobs" },
+    { "name": "stat_peak", "value": "peak" },
+    { "name": "stat_ignored", "value": "Ignored" },
+    { "name": "stat_lost", "value": "Lost updates" },
+    { "name": "stat_errors", "value": "Errors" },
+    { "name": "btn_save", "value": "SAVE" },
+    { "name": "btn_saving", "value": "Saving…" },
+    { "name": "btn_error", "value": "ERROR" },
+    { "name": "btn_stress", "value": "Stress" },
+    { "name": "btn_reset", "value": "Reset" },
+    { "name": "btn_crash", "value": "Really crash (debug)" },
+    { "name": "crown_pad_idle", "value": "Tap here, then turn the crown" },
+    { "name": "crown_pad_focused", "value": "Crown / key input active" },
+    { "name": "previous_crash", "value": "The previous session crashed:" },
+    { "name": "event_log", "value": "Event log" }
+  ]
+}
